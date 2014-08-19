@@ -1,0 +1,4 @@
+from=1-4-2014
+to=18-4-2014
+type=totalvisits,hourlyvisits,visitsbygender,campaign,visitsbyage,comments,satisfaction
+
